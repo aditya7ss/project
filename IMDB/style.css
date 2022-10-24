@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding: 0px;
+    color:white;
+}
+body{
+    width: 100%;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+a:link{
+    color:transparent;
+}
+a:hover{
+    color: rgb(35, 159, 190);
+    letter-spacing: 1px;
+}
